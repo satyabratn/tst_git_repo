@@ -1,0 +1,10 @@
+C:\git\sampleDB\sampleDB\bin\Debug\sampleDB.dacpac
+C:\git\sampleDB\sampleDB\bin\Debug\sampleDB.dll
+C:\git\sampleDB\sampleDB\bin\Debug\sampleDB.pdb
+C:\git\sampleDB\sampleDB\obj\Debug\sampleDB.sqlprojAssemblyReference.cache
+C:\git\sampleDB\sampleDB\obj\Debug\Model.xml
+C:\git\sampleDB\sampleDB\obj\Debug\refactor.xml
+C:\git\sampleDB\sampleDB\obj\Debug\postdeploy.sql
+C:\git\sampleDB\sampleDB\obj\Debug\predeploy.sql
+C:\git\sampleDB\sampleDB\obj\Debug\sampleDB.dll
+C:\git\sampleDB\sampleDB\obj\Debug\sampleDB.pdb
