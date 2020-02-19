@@ -8,3 +8,13 @@ C:\git\sampleDB\sampleDB\obj\Debug\postdeploy.sql
 C:\git\sampleDB\sampleDB\obj\Debug\predeploy.sql
 C:\git\sampleDB\sampleDB\obj\Debug\sampleDB.dll
 C:\git\sampleDB\sampleDB\obj\Debug\sampleDB.pdb
+C:\gitclone\sampleDB\bin\Debug\sampleDB.dacpac
+C:\gitclone\sampleDB\bin\Debug\sampleDB.dll
+C:\gitclone\sampleDB\bin\Debug\sampleDB.pdb
+C:\gitclone\sampleDB\obj\Debug\sampleDB.sqlprojAssemblyReference.cache
+C:\gitclone\sampleDB\obj\Debug\Model.xml
+C:\gitclone\sampleDB\obj\Debug\refactor.xml
+C:\gitclone\sampleDB\obj\Debug\postdeploy.sql
+C:\gitclone\sampleDB\obj\Debug\predeploy.sql
+C:\gitclone\sampleDB\obj\Debug\sampleDB.dll
+C:\gitclone\sampleDB\obj\Debug\sampleDB.pdb
